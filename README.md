@@ -10,4 +10,4 @@ OUTLINE:
 
 -In the likely event that simply applying an ESRGAN model to an image will not get the results we want, hardware enhacements or other changes to the proces will be looked at.
       
-      -Looked into hardware updates and concluded that, atleast as of now, the hardware needed to make a dashcam that will record without compression is not viable. Even with reduced framerate and even sticking to only black and               white "color" scheme, the hardware needed would be much too expensive let alone hard to fit in something the size of a dashcam.
+-Looked into hardware updates and concluded that, atleast as of now, the hardware needed to make a dashcam that will record without compression is not viable. Even with reduced framerate and even sticking to only black and               white "color" scheme, the hardware needed would be much too expensive let alone hard to fit in something the size of a dashcam.
