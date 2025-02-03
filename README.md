@@ -12,4 +12,4 @@ OUTLINE:
       
 -Looked into hardware updates and concluded that, atleast as of now, the hardware needed to make a dashcam that will record without compression is not viable. Even with reduced framerate and even sticking to only black and               white "color" scheme, the hardware needed would be much too expensive let alone hard to fit in something the size of a dashcam.
 
-UPDATE: In the process of reaching out to Real-ESRGAN repository owners to branch and fine tune the algorithm for license plate enhancement.
+-Unsuccessful firts couple of attempts. Motion blur is proving too much on the majority of images.
